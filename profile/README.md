@@ -1,4 +1,4 @@
-## <img align="left" src="https://github.com/MSP-Technologies-Ltd/.github/blob/main/profile/MSP logo JPG square.jpg" width = "75px" height = "75px" alt="MSP Battery Storage Systems logo - grey and blue squares half surrounding the words Multi Source Power."> [MSP Technologies Ltd.](https://www.multisourcepower.com/)
+## <img align="right" src="https://github.com/MSP-Technologies-Ltd/.github/blob/main/profile/MSP logo JPG square.jpg" width = "75px" height = "75px" alt="MSP Battery Storage Systems logo - grey and blue squares half surrounding the words Multi Source Power."> [MSP Technologies Ltd.](https://www.multisourcepower.com/)
 
 <img align="center" src="https://github.com/MSP-Technologies-Ltd/.github/blob/main/profile/MSP%20Technologies.jpg" alt="MSP Battery Storage Systems on white gravel with solar panels and wind turbines around them.">
 
