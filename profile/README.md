@@ -1,6 +1,6 @@
 ## [MSP Technologies Ltd.](https://www.multisourcepower.com/)
 
-<img align="right" src="https://github.com/MSP-Technologies-Ltd/.github/blob/main/profile/MSP%20Technologies.jpg" alt="Looking up at the sky with trees and stars at night">
+<img align="right" src="https://github.com/MSP-Technologies-Ltd/.github/blob/main/profile/MSP%20Technologies.jpg" alt="MSP Battery Storage Systems on white gravel with solar panels and wind turbines around them.">
 
 ## British Energy Storage Manufacturers of the most flexible energy storage solution on or off the grid.
 
@@ -12,4 +12,5 @@ Our storage systems also provide solutions to projects outside of traditional ma
 
 We are proudly British Made, working to enable the UK and countries around the world to achieve their net zero carbon ambitions. 
 
-[MSP Technologies Ltd.](https://www.multisourcepower.com/)
+
+<img align="right" src="https://github.com/MSP-Technologies-Ltd/.github/blob/main/profile/MSP logo JPG square.jpg" alt="MSP Battery Storage Systems logo - grey and blue squeare half surrounding the words Multi Source Power.">[MSP Technologies Ltd.](https://www.multisourcepower.com/)
