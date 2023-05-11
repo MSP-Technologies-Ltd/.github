@@ -1,6 +1,6 @@
 ## MSP Technologies Ltd. 
 
-<img align="right" src="https://github.com/MSP-Technologies-Ltd/.github/blob/main/profile/MSP%20Technologies.jpg" width="800" height="200" alt="Looking up at the sky with trees and stars at night">
+<img align="right" src="https://github.com/MSP-Technologies-Ltd/.github/blob/main/profile/MSP%20Technologies.jpg" alt="Looking up at the sky with trees and stars at night">
 
 
 
